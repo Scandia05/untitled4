@@ -1,0 +1,11 @@
+Nombre/Tipo/Precio/Ubi
+Nestle Veggie Frutilla/Yougurt/$380/Lider
+Chocolate Vegano/Barra de Chocolate/$1.000/Emporio Vive Vegano 
+Salchicha Vegana Riku/Salchicha/$2.490 
+Caja De alimentos Veganos/Snack/$2.167/Mercadolibre 
+Nuggets de Soya Mister/Tipo/$2.959/Jumbo 
+Crema de Avellanas/Tipo/$3.390/Lider
+Barras de cereal quinola/Snack/$3.800/Lider 
+Barra de proteina Vegana/Snack/$4.890/Lider
+Carne molida Vegetal/Carne/$5.990/Jumbo 
+Mermelada de Mora/Mermelada/$710/Lider
